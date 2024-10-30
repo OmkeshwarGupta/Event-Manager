@@ -2,6 +2,10 @@
 
 Event Manager is a web-based application designed to facilitate event management, including creating, editing, and deleting events. It offers both frontend and backend functionality, ensuring a complete solution for managing events seamlessly.
 
+# Deployed Link 
+
+[Event-Manager](https://event-front-ckgv.onrender.com/)
+
 ## Project Screenshot
 ![Home](./screenshot/home.png)
 ![Login](./screenshot/login.png)
